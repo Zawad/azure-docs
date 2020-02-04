@@ -106,6 +106,8 @@ Requestors will receive email notifications when:
 * Their request has been denied or blocked
 * Their request has been approved
  
+If the reviewer or requestor are not equiped with a mailbox, then an email will be sent to their [alternative email address](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods). 
+ 
 ## Audit logs 
  
 The table below outlines the scenarios and audit values available for the admin consent workflow. 
